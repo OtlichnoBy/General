@@ -31,7 +31,6 @@ def game_core(number):
             predict -= int(step / 2)
             step = int(step / 2)
 
-
     return(count)
 
 
