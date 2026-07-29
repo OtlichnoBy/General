@@ -64,10 +64,11 @@
 ```
 recommender_system_project.ipynb   # Основной ноутбук: EDA → Feature Engineering → Модели → Оценка
 DOCS.md                             # Документация: данные, трансформации, API сервиса
-presentation.pdf                    # Презентация результатов для бизнес-заказчика
 requirements.txt                    # Зависимости Python
 README.md                           # Описание проекта
 ```
+
+- **Презентация:** [Посмотреть слайды на Google Drive](https://drive.google.com/file/d/18UztVZuOvXp6p22QFccetpiiZcGT5MRN/view?usp=sharing)
 
 ## Production (Docker API)
 
