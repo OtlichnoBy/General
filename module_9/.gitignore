@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+*.rar
+*.zip
+*.7z
+
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+
+data/
+images/
+.env

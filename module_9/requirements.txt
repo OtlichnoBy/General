@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+pymc3
+lightgbm
+catboost
+xgboost
+causalml
+prometheus_client
+requests
+beautifulsoup4
+gdown
